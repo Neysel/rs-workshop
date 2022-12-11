@@ -1,3 +1,5 @@
 Some text for header
 changes from <master>
-new changes comment
+Changes from <first>
+
+text from master: new changes
